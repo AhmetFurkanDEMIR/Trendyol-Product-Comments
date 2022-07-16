@@ -9,8 +9,12 @@ public class TrendyolProduct {
 
     public static void main(String args[]) throws IOException, InterruptedException, ClassNotFoundException, SQLException {
 
+        String genders = "1,2,3";
+
+        String brands = "38,37,271,101990,43,44,136,230,33,124,160,101439,436,189,257,146279,131,634,150,859";
+
         // Products
-        String url = "https://www.trendyol.com/sr?wg=1,2,3&wb=38,37,271,101990,43,44,136,230,33,124,160,101439,436,189,257,146279,131,634,150,859&wc=82&os=1&pi=";
+        String url = "https://www.trendyol.com/sr?wg="+genders+"&wb="+brands+"&wc=82&os=1&pi=";
 
         // firefox driver
         System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"/driver/geckodriver");
