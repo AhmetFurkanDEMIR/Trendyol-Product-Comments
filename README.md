@@ -2,6 +2,8 @@
 
 ## Trendyol-Product-Comments 
 
+![index](https://user-images.githubusercontent.com/54184905/179355852-c5f019d9-cf9b-4104-81f5-8fb645ea4c86.jpeg)
+
 Web scraping tool written in Java Selenium and Jsoup for pulling product and product reviews from Trendyol e-commerce site.
 
 
