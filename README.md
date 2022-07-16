@@ -13,7 +13,7 @@ Web scraping tool written in Java Selenium and Jsoup for pulling product and pro
 
 **Kaggle Dataset :** https://www.kaggle.com/datasets/ahmetfurkandemr/trendyol-product-comments
 
-**Kaggle Comment classification project :** 
+**Kaggle Comment classification project :** https://www.kaggle.com/code/ahmetfurkandemr/trendyol-product-reviews-classification
 
 
 * **Gender of clothing products.**
